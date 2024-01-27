@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/raxmatjon25" target="blank"><img src="https://img.shields.io/twitter/follow/raxmatjon25?logo=twitter&style=for-the-badge" alt="raxmatjon25" /></a> </p>
 
-- 🔭 I’m currently working on [Premium-Pay](https://github.com/Raxmatjon77/Premium-Pay-backend)
+- 🔭 I’m currently working on **Python and Node Projects at work**
 
 - 🌱 I’m currently working **with Node js and Python**
 
